@@ -1,19 +1,18 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.bootstrapdash.com/demo/corona-free/jquery/template/index.html" target="_blank"><img src="preview.jpg"></a>
+      <a href="https://www.bootstrapdash.com/demo/corona-free/jquery/template/index.html" target="_blank"><img src="preview.JPG"></a>
        <h3>Corona-free</h3>
     </td>
   </tr>
 </table>
 
-<h1>CoronaAdmin-Free-Admin-Template</h1>
-Corona Admin is a free responsive admin template built with Bootstrap 4. The template has colorful, attractive yet simple and elegant design. The template is well crafted, with all the components neatly and carefully designed and arranged within the template.
+<h1>Persian-CoronaAdmin-Free-Admin-Template</h1>
+Persian Corona Admin یک الگوی مدیریت پاسخگو رایگان است که با Bootstrap 4 ساخته شده است. این الگو دارای طراحی رنگارنگ ، جذاب و در عین حال ساده و ظریف است. الگو به خوبی ساخته شده است ، تمام اجزای آن به شکلی تمیز و دقیق طراحی شده و در قالب الگو قرار گرفته اند.
 
-Corona Admin is packed with all the features that fit your needs but not cramped with components you would not even use. It is an excellent fit to build admin panels, e-commerce systems, project management systems, CMS or CRM.
+Persian Corona Admin دارای تمام ویژگی های متناسب با نیازهای شماست اما با اجزایی که حتی استفاده نمی کنید محدود نیست. این یک ویژگی عالی برای ساخت پنل های مدیریت ، سیستم های تجارت الکترونیکی ، سیستم های مدیریت پروژه ، CMS یا CRM است.
 
-Although the template has a design like none other, it is easily customizable to suit your requirements. Corona Admin comes with a clean and well-commented code that makes it easy to work with the template. Thus making it an ideal pick for jump starting your project.
-
+اگرچه این الگو طرحی مانند هیچ طرح دیگری ندارد ، اما به راحتی متناسب با نیازهای شما قابل تنظیم است. Persian Corona Admin دارای یک کد تمیز و کاملاً تفسیر شده است که کار با الگو را آسان می کند. بنابراین آن را به یک گزینه ایده آل برای شروع پروژه تبدیل کنید.
 <h1>Credits:</h1>
 
 - Bootstrap 4
