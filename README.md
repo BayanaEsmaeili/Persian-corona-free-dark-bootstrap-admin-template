@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/BayanaEsmaeili/Persian-corona-free-dark-bootstrap-admin-template/index.html" target="_blank"><img src="preview.JPG"></a>
+      <a href="https://github.com/BayanaEsmaeili/Persian-corona-free-dark-bootstrap-admin-template/index.html" target="_blank"><img src="preview.jpg"></a>
     </td>
   </tr>
 </table>
@@ -78,7 +78,7 @@ Persian Corona Admin دارای تمام ویژگی های متناسب با ن�
 <h2 dir="rtl">سپس</h2>
 <p dir="rtl"> پس از نصب Gulp ، مراحل زیر را برای مشارکت دنبال کنید. </p>
 <ol dir="rtl">
-  <li>فورک و شبیه سازی Coro Admin.</li>
+  <li>فورک و شبیه سازی Persian Corona Admin.</li>
   <li>دستور npm install را نصب کنید تا تمام وابستگی ها نصب شود.</li>
   <li>دستور gulp serve را وارد کنید. با این کار Corona Admin در مرورگر پیش فرض شما باز می شود.</li>
   <li>تغییرات خودتان را اعمال کنید</li>
